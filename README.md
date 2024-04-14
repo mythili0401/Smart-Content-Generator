@@ -1,0 +1,2 @@
+# Smart-Content-Generator
+Our Smart Content Generator leverages user-provided keywords to generate insightful recommendations using the power of GPT models. By utilizing the Google Search library and BeautifulSoup, we extract relevant text content from web links associated with the keywords. This text is then fed into the GPT model to produce intelligent and informative content tailored to the user's interests.
